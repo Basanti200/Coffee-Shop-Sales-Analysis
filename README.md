@@ -1,6 +1,6 @@
 # Overview
 
--The Coffee Shop Sales Analysis Project is a data-driven initiative focused on examining and visualizing sales data from a fictional coffee shop chain. < br / >This project integrates SQL for data extraction and transformation, along with Power BI to create compelling visual representations. < br / >The main goal is to uncover actionable insights that will help the coffee shop chain optimize operations, increase sales, and improve customer satisfaction.
+-The Coffee Shop Sales Analysis Project is a data-driven initiative focused on examining and visualizing sales data from a fictional coffee shop chain. < br / >This project integrates SQL for data extraction and transformation, along with Power BI to create compelling visual representations. <br/>The main goal is to uncover actionable insights that will help the coffee shop chain optimize operations, increase sales, and improve customer satisfaction.
 
 #Data Acquisition
 
